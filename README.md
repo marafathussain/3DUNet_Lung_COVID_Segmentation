@@ -12,3 +12,5 @@ Each fold was run for 100 epochs and the DICE metrics for five-fold cross-valida
 
 ## Pre-trained model
 The pretrained model can be downloaded from this [link](https://drive.google.com/file/d/19EHkjGR9tFLjPLnyzasExPzO_gJDzRy6/view?usp=sharing).
+
+
