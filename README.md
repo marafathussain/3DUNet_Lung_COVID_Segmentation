@@ -13,4 +13,6 @@ Each fold was run for 100 epochs and the DICE metrics for five-fold cross-valida
 ## Pre-trained model
 The pretrained model can be downloaded from this [link](https://drive.google.com/file/d/19EHkjGR9tFLjPLnyzasExPzO_gJDzRy6/view?usp=sharing).
 
-![alt text](https://github.com/marafathussain/3DUNet_Lung_COVID_Segmentation/issues/1?raw=true)
+![Alt text](https://github.com/marafathussain/3DUNet_Lung_COVID_Segmentation/issues/1?raw=true)
+
+https://github.com/marafathussain/3DUNet_Lung_COVID_Segmentation/issues/1?raw=true#issue-646653086
