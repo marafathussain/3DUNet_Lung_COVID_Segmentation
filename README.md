@@ -4,8 +4,11 @@ Running this code needs [MONAI](https://github.com/Project-MONAI/MONAI) framewor
 ## Data preprocessing
 All the CT volumes were resampled to a common voxel dimension of 1.6mm X 1.6mm X 3.2mm. 
 
+## Loss function
+I used crossentropy+dice loss, which I adopted from [nnUNet](https://github.com/MIC-DKFZ/nnUNet) framework.
+
 ## Accuracy
 Each fold was run for 100 epochs and the DICE metrics for five-fold cross-validations are 0.83, 0.88, 0.71, 0.68, and 0.74 respectively.
 
 ## Pre-trained model
-The pretrained model can be downloaded from this [link](https://drive.google.com/file/d/11HzTu79q05Pr9IJZQN9fIcZk4ErapweA/view?usp=sharing).
+The pretrained model can be downloaded from this [link](https://drive.google.com/file/d/19EHkjGR9tFLjPLnyzasExPzO_gJDzRy6/view?usp=sharing).
