@@ -10,8 +10,8 @@ I used crossentropy+dice loss, which I adopted from [nnUNet](https://github.com/
 ## Accuracy
 Each fold was run for 100 epochs and the DICE metrics for five-fold cross-validations are 0.83, 0.88, 0.71, 0.68, and 0.74 respectively.
 
-## Pre-trained model
-The pretrained model can be downloaded from this [link](https://drive.google.com/file/d/19EHkjGR9tFLjPLnyzasExPzO_gJDzRy6/view?usp=sharing).
+## Pre-trained models
+The pretrained models can be downloaded from this [link](https://drive.google.com/file/d/19EHkjGR9tFLjPLnyzasExPzO_gJDzRy6/view?usp=sharing).
 
 ![Screen Shot 2020-06-27 at 3 03 05 AM](https://user-images.githubusercontent.com/48772377/85919946-71744480-b824-11ea-8791-64c83a15dc56.png)
 
